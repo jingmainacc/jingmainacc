@@ -5,9 +5,11 @@
 - <b>AI/Machine Learning Projects</b>
   - [Voice Assistant "MyAlexa"](https://github.com/jingmainacc/Voice-Assistant-MyAlexa-) (Python)
   - [Voice Activated Light](https://github.com/jingmainacc/Voice-Activated-Light) (Python)
+    
 - <b>Network Systems Projects</b>
   - [IPv4 addressing and static routing in GNS3](https://github.com/jingmainacc/IPv4-addressing-and-static-routing-in-GNS3)
   - [Wireshark and Traceroute](https://github.com/jingmainacc/Wireshark-and-Traceroute)
+    
 - <b>Game Development Projects</b>
   - [Public Good Game Simulation](https://github.com/jingmainacc/Public-Good-Game-Simulation) (HTML, CSS, Javascript)
 
