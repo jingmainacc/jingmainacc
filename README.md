@@ -6,7 +6,7 @@
   - [Voice Assistant "MyAlexa"](https://github.com/jingmainacc/Voice-Assistant-MyAlexa-)
   - [Voice Activated Light](https://github.com/jingmainacc/Voice-Activated-Light)
 - <b>Network Systems Projects</b>
-  - [IPv4 addressing and static routing in GNS3](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [IPv4 addressing and static routing in GNS3](https://github.com/jingmainacc/IPv4-addressing-and-static-routing-in-GNS3)
   - [Wireshark and Traceroute](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Game Development Projects</b>
   - [Public Good Game Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
