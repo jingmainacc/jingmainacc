@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AI/Machine Learning Projects</b>
-  - [Voice Assistant "MyAlexa"](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Voice Assistant "MyAlexa"](https://github.com/jingmainacc/Voice-Assistant-MyAlexa-)
   - [Voice Activated Light](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Network Systems Projects</b>
   - [IPv4 addressing and static routing in GNS3](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
