@@ -9,7 +9,7 @@
   - [IPv4 addressing and static routing in GNS3](https://github.com/jingmainacc/IPv4-addressing-and-static-routing-in-GNS3)
   - [Wireshark and Traceroute](https://github.com/jingmainacc/Wireshark-and-Traceroute)
 - <b>Game Development Projects</b>
-  - [Public Good Game Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Public Good Game Simulation](https://github.com/jingmainacc/Public-Good-Game-Simulation)
 
 
 
