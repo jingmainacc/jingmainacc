@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Christian! <br/><a href="https://github.com/joshmadakor1">Computer Engineer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>AI/Machine Learning Projects</b>
+  - [Voice Assistant "MyAlexa"](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Voice Activated Light](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Network Systems Projects</b>
+  - [IPv4 addressing and static routing in GNS3](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Wireshark and Traceroute](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**jingmainacc/jingmainacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
